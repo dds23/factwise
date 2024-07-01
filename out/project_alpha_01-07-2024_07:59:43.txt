@@ -1,0 +1,34 @@
+Board: project_alpha
+Description: Initial phase of Project Alpha
+Team: alpha_team
+Creation Time: 2024-06-30 23:37:28.877136+00:00
+Status: OPEN
+
+TASKS:
+
+To Do:
+  No tasks
+
+
+In Progress:
+  - Task 1: Design Database Schema
+    Description: Create the initial database schema for the project.
+    Assigned to: john_doe
+    Creation Time: 2024-06-30 23:42:48.375003+00:00
+    Status: IN_PROGRESS
+
+  - Task 2: Bugfix
+    Description: Backend endpoint create team bugfix.
+    Assigned to: jane_doe
+    Creation Time: 2024-06-30 23:48:34.641468+00:00
+    Status: IN_PROGRESS
+
+  - Task 3: KT
+    Description: Provide KT session to the team
+    Assigned to: jane_doe
+    Creation Time: 2024-07-01 00:13:42.815815+00:00
+    Status: IN_PROGRESS
+
+
+Done:
+  No tasks
